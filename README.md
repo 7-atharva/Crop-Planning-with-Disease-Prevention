@@ -1,2 +1,1 @@
-# Crop_PDF
-Crop Recommendation, Crop Fertilizer Recommendation and Plant Disease Detection 
+Climate Based Crop Planning with Disease Prevention Through Data Intelligent Decision Making.
